@@ -8,6 +8,6 @@ public class App {
     }
 
     public void getData(){
-        System.out.println("Get data");
+        System.out.println("Get data from ABC");
     }
 }
