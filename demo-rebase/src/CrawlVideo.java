@@ -7,4 +7,8 @@ public class CrawlVideo {
     public void getLink(){
         System.out.println("Get Links");
     }
+
+    public void getImage(){
+        System.out.println("get Images");
+    }
 }
