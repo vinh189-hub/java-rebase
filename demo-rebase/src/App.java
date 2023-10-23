@@ -6,4 +6,8 @@ public class App {
     public void getApi(){
         System.out.println("Get API");
     }
+
+    public void getData(){
+        System.out.println("Get data");
+    }
 }
